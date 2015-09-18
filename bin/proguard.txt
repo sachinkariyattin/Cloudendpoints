@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:58
+-keep class com.cloudendpoints.DisplayItems { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.cloudendpoints.GCMIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.cloudendpoints.Google_CRUD { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.cloudendpoints.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class com.cloudendpoints.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.google.android.gcm.GCMBroadcastReceiver { <init>(...); }
+
